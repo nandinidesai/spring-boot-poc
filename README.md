@@ -1,2 +1,2 @@
 # spring-boot-poc
-Spring boot poc
+Spring-boot poc
